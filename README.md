@@ -3,10 +3,10 @@
 ## Life
 * **La Salle** :arrow_right: Senior R&D Computer Engineer
 * **La Salle** :arrow_right: R&D Computer Engineer
-* **La Salle** :arrow_right: Master of Science in High Performance Web Programming student
-* **La Salle** :arrow_right: Computer Engineering Student
-* **La Salle** :arrow_right: research intern and teacher assistant
-* **Cobuc** :arrow_right: software developer intern
+* **La Salle** :arrow_right: Master of Science in High Performance Web Programming
+* **La Salle** :arrow_right: Computer Engineering
+* **La Salle** :arrow_right: Research intern and Teacher assistant
+* **Cobuc** :arrow_right: Software Developer intern
 
 ## Coding Languages
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
