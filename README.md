@@ -1,13 +1,5 @@
 # Hi, I'm Víctor :wave:
 
-## Life
-* **La Salle** :arrow_right: Senior R&D Computer Engineer
-* **La Salle** :arrow_right: R&D Computer Engineer
-* **La Salle** :arrow_right: Master of Science in High Performance Web Programming
-* **La Salle** :arrow_right: Computer Engineering
-* **La Salle** :arrow_right: Research intern and Teacher assistant
-* **Cobuc** :arrow_right: Software Developer intern
-
 ## Coding Languages
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
